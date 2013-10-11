@@ -248,5 +248,5 @@ class(lm.samples[1])
 class(lm.samples[[1]])
 ```
 
-
+**Just to reiterate, the idea to plot the figures above and most of the code to do it was pulled from lecture notes. The only thing I can take credit for is recognizing a really good explanation/demonstration of the concepts above and wanting to share them with people trying to learn.**
 
